@@ -1,0 +1,61 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h1 class="text-center">Avaliação Hands-on - Descubra o assassino</h1>
+
+<script type="text/javascript" src="~/Scripts/Caso.js"></script>
+<div class="row col-sm-8 col-md-offset-2 text-center">
+    <p class="lead">
+        O empresário Sean Bean foi assassinado e o corpo dele foi deixado na frente da delegacia de polícia. O Inspetor Jacques
+        Clouseau foi escolhido para investigar este caso. Após uma série de investigações, ele organizou uma lista com
+        prováveis assassinos, os locais do crime e quais armas poderiam ter sido utilizadas.
+    </p>
+</div>
+<div class="rowerros text-center">
+
+</div>
+<div class="row col-sm-10 col-md-offset-1">
+    <div class="form-group col-sm-4">
+        <label>Suspeitos (Assasino)</label>
+        <select class="form-control" id="cbsuspeitos">
+            @foreach (var item in ViewBag.Suspeitos)
+            {
+                <option value="@item.ID">@item.Descricao</option>
+            }
+        </select>
+    </div>
+    <div class="form-group col-sm-4">
+        <label>Armas</label>
+        <select class="form-control" id="cbarmas">
+            @foreach (var item in ViewBag.Armas)
+            {
+                <option value="@item.ID">@item.Descricao</option>
+            }
+        </select>
+    </div>
+    <div class="form-group col-sm-4">
+        <label>Locais</label>
+        <select class="form-control" id="cblocais">
+            @foreach (var item in ViewBag.Locais)
+            {
+                <option value="@item.ID">@item.Descricao</option>
+            }
+        </select>
+    </div>
+</div>
+<div class="form-group">
+    <div class="col-sm-offset-1 col-sm-10">
+        <input class="btn btn-default" type="button" onclick="Crime()" value="Verificar caso" />
+    </div>
+</div>
+<div id="popup" class="popup" style="width: 400px; height: 200px; display:none;">
+    <span class="button b-close"><span>X</span></span>
+    <div id="dvresult" class="alert-success" style="margin-top:50px;">
+        <p id="result" class="text-center"></p>
+    </div>  
+    <div class="form-group">
+        <div class="">
+            <input class="btn btn-default" type="button" onclick="location.reload()" value="Novo caso"/>
+        </div>
+    </div>
+</div>

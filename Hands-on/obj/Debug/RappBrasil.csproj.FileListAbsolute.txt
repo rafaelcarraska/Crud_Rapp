@@ -1,0 +1,244 @@
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\roslyn\csc.exe
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\roslyn\vbc.exe
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\roslyn\VBCSCompiler.exe
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\RappBrasil.dll.config
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\RappBrasil.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\RappBrasil.pdb
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Antlr3.Runtime.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\EntityFramework.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\EntityFramework.SqlServer.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AI.Web.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Newtonsoft.Json.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Owin.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.Helpers.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.Mvc.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.Optimization.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.Razor.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.WebPages.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.WebPages.Razor.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\WebGrease.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AI.Web.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.Helpers.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.Mvc.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.Optimization.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.Razor.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.WebPages.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.WebPages.Razor.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Antlr3.Runtime.pdb
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Newtonsoft.Json.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\EntityFramework.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\EntityFramework.SqlServer.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\obj\Debug\RappBrasil.csprojResolveAssemblyReference.cache
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\obj\Debug\RappBrasil.dll
+C:\Users\Macso\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\obj\Debug\RappBrasil.pdb
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\roslyn\csc.exe
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\roslyn\vbc.exe
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\roslyn\VBCSCompiler.exe
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\RappBrasil.dll.config
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\RappBrasil.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\RappBrasil.pdb
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Antlr3.Runtime.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\EntityFramework.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\EntityFramework.SqlServer.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.AI.Web.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.Owin.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Newtonsoft.Json.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Owin.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\System.Web.Helpers.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\System.Web.Mvc.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\System.Web.Optimization.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\System.Web.Razor.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\System.Web.WebPages.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\System.Web.WebPages.Razor.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\WebGrease.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.AI.Web.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\System.Web.Helpers.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\System.Web.Mvc.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\System.Web.Optimization.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\System.Web.Razor.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\System.Web.WebPages.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\System.Web.WebPages.Razor.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Antlr3.Runtime.pdb
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Newtonsoft.Json.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\EntityFramework.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\EntityFramework.SqlServer.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.Owin.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\obj\Debug\RappBrasil.csprojResolveAssemblyReference.cache
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\obj\Debug\RappBrasil.dll
+C:\Users\Macso\Documents\Bitbucket\RappBrasil\RappBrasil\obj\Debug\RappBrasil.pdb
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\roslyn\csc.exe
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\roslyn\vbc.exe
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\RappBrasil.dll.config
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\RappBrasil.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\RappBrasil.pdb
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Antlr3.Runtime.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\EntityFramework.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\EntityFramework.SqlServer.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AI.Web.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Newtonsoft.Json.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Owin.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.Helpers.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.Mvc.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.Optimization.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.Razor.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.WebPages.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\WebGrease.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AI.Web.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.Helpers.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.Mvc.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.Optimization.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.Razor.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.WebPages.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Antlr3.Runtime.pdb
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Newtonsoft.Json.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\EntityFramework.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\EntityFramework.SqlServer.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\obj\Debug\RappBrasil.csprojResolveAssemblyReference.cache
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\obj\Debug\RappBrasil.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\obj\Debug\RappBrasil.dll
+C:\Users\Rafael Carrasqueira\Google Drive\Visual Studio 2015\Projects\RappBrasil\RappBrasil\obj\Debug\RappBrasil.pdb
