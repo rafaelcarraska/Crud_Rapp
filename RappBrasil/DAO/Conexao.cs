@@ -16,7 +16,7 @@ namespace RappBrasil.Dao
         {
             if (_connck == null)
             {
-                _connck = new SqlConnection("Data Source=127.0.0.1;Initial Catalog=RappBrasil;User ID=xx;Password=xxxxxx");
+                _connck = new SqlConnection("Data Source=127.0.0.1;Initial Catalog=RappBrasil;User ID=sa;Password=Managers2b");
             }
         }
 
